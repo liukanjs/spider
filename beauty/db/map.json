@@ -1,0 +1,32 @@
+{
+  "info": {
+    "type": 49,
+    "error": 0,
+    "request_id": "113090033162c8df72e49d542e3fda70a46181ca21ab",
+    "time": 0,
+    "total": 1018,
+    "rnum": 20,
+    "linenum": 0,
+    "stationnum": 0,
+    "need_adjust": 0
+  },
+  "detail": {
+    "city": {
+      "ccode": 0,
+      "cname": "",
+      "ctype": 0,
+      "level": 4,
+      "pointx": 104.461761,
+      "pointy": 34.519469,
+      "geotype": 0,
+      "path": [
+        {
+          "ccode": 0,
+          "cname": "中国"
+        }
+      ]
+    },
+    "pois": [
+    ]
+  }
+}

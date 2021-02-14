@@ -1,0 +1,3545 @@
+{
+    "store": [
+      {
+        "uid": "1943868512391648191",
+        "name": "晨美美容纹绣院",
+        "addr": "广东省惠州市惠阳区淡水石景街16号",
+        "phone": "0752-3350008",
+        "classes": "生活服务:美容美发:美甲",
+        "pinfo": "0",
+        "pointx": "114.462060",
+        "pointy": "22.789020",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 80,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美甲",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省惠州市惠阳区淡水石景街16号",
+              "avg_rating": "4.0",
+              "branch_name": "",
+              "business_name": "晨美美容纹绣院",
+              "business_status": "正常商户",
+              "city": "惠州市",
+              "lat": "22.78902",
+              "latitude": "22.78902",
+              "lng": "114.46206",
+              "longitude": "114.46206",
+              "name": "晨美美容纹绣院",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "惠阳区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美甲",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "可手机支付,免费wifi,免费停车,有包厢,可刷卡,有无烟区,有沙发位",
+              "star_level": 80,
+              "telphone": "0752-3350008"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "4414920711726522374",
+        "name": "传奇光学科技美容中心(摩尔城店)",
+        "addr": "广东省深圳市龙岗区深惠路860号鹏达摩尔城F3楼",
+        "phone": "0755-89362123",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.268087",
+        "pointy": "22.722452",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 90,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区深惠路860号鹏达摩尔城F3楼",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "branch_name": "南联摩尔城店",
+              "brand_id": "1046627",
+              "business_name": "传奇光学科技美容中心(摩尔城店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.722452013",
+              "latitude": "22.722452013",
+              "lng": "114.268086659",
+              "longitude": "114.268086659",
+              "name": "传奇光学科技美容中心(摩尔城店)",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "可手机支付,免费wifi,可刷卡",
+              "star_level": 90,
+              "telphone": "0755-89362123"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "16140859420748945006",
+        "name": "鱼美人(沙井分院)",
+        "addr": "广东省深圳市宝安区中心路100号星河大厦5层501室",
+        "phone": "0755-29883009",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "113.829980",
+        "pointy": "22.728449",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 80,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区中心路100号星河大厦5层501室",
+              "avg_rating": "4.0",
+              "brand_id": "1008866",
+              "business_name": "鱼美人(沙井分院)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.728449",
+              "latitude": "22.728449",
+              "lng": "113.82998",
+              "longitude": "113.82998",
+              "name": "鱼美人(沙井分院)",
+              "open_time": "周一至周日\n10:00-20:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 80,
+              "telphone": "0755-29883009"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "1073017859172566380",
+        "name": "深圳鱼美人减肥美容中心",
+        "addr": "广东省深圳市龙岗区清林路39号新城市大厦5楼501",
+        "phone": " ",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.234790",
+        "pointy": "22.718890",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 100,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区清林路39号新城市大厦5楼501",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "brand_id": "1008866",
+              "business_name": "深圳鱼美人减肥美容中心",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.71889",
+              "latitude": "22.71889",
+              "lng": "114.23479",
+              "longitude": "114.23479",
+              "name": "深圳鱼美人减肥美容中心",
+              "open_time": "周一至周日\n09:00-21:00",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": ""
+            }
+          ]
+        }
+      },
+      {
+        "uid": "17630516322513641680",
+        "name": "传奇光学科技美容中心(龙华宝银坊店)",
+        "addr": "广东省深圳市龙华区龙华和平路宝银坊商场2楼L55-56号",
+        "phone": "0755-21018845",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.022488",
+        "pointy": "22.651217",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 90,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙华区龙华和平路宝银坊商场2楼L55-56号",
+              "avg_rating": "4.5",
+              "brand_id": "1046627",
+              "business_name": "传奇光学科技美容中心(龙华宝银坊店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.651217",
+              "latitude": "22.651217",
+              "lng": "114.022488",
+              "longitude": "114.022488",
+              "name": "传奇光学科技美容中心(龙华宝银坊店)",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "龙华区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "0755-21018845"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "17008224212697334276",
+        "name": "伊斯妮美容美体美甲",
+        "addr": "广东省深圳市龙华区观澜街道大水坑社区二村134栋1楼",
+        "phone": "15118066725;18682211192",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.008159",
+        "pointy": "22.730311",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "0",
+              "real_comment_num": "0",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "0"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙华区观澜街道大水坑社区二村134栋1楼",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "business_name": "伊斯妮美容美体美甲",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.730311",
+              "latitude": "22.730311",
+              "lng": "114.008159",
+              "longitude": "114.008159",
+              "name": "伊斯妮美容美体美甲",
+              "province": "广东省",
+              "regions": "龙华区",
+              "review_count": "0",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 70,
+              "telphone": "15118066725;18682211192"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "18053739243645689453",
+        "name": "深圳市宝安区沙井秋韵美美美容院",
+        "addr": "广东省深圳市宝安区宝安大道马安山春和雅苑三栋1单元2铺",
+        "phone": "18929359485",
+        "classes": "生活服务:美容美发:美发",
+        "pinfo": "0",
+        "pointx": "113.817500",
+        "pointy": "22.716520",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "0",
+              "real_comment_num": "0",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "0"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美发",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区宝安大道马安山春和雅苑三栋1单元2铺",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "",
+              "business_name": "深圳市宝安区沙井秋韵美美美容院",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.71652",
+              "latitude": "22.71652",
+              "lng": "113.8175",
+              "longitude": "113.8175",
+              "name": "深圳市宝安区沙井秋韵美美美容院",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "0",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美发",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "可带宠物,免费wifi,可刷卡",
+              "star_level": 70,
+              "telphone": "18929359485"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "11655227228673537253",
+        "name": "美丽伊人纤体丰胸养生",
+        "addr": "广东省惠州市惠阳区淡水华都广场3楼",
+        "phone": "0752-3378366",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.471360",
+        "pointy": "22.792050",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 94,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "0",
+              "real_comment_num": "0",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "0"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping_hezuo"
+          },
+          "rich": [
+            {
+              "address": "广东省惠州市惠阳区淡水华都广场3楼",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "华都广场店",
+              "business_name": "美丽伊人纤体丰胸养生",
+              "business_status": "正常商户",
+              "city": "惠州市",
+              "lat": "22.79205",
+              "latitude": "22.79205",
+              "lng": "114.47136",
+              "longitude": "114.47136",
+              "name": "美丽伊人纤体丰胸养生",
+              "open_time": "周一至周日 10:00-21:00",
+              "province": "广东省",
+              "regions": "惠阳区",
+              "review_count": "0",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping_hezuo",
+              "rich_source_url": "http://www.dianping.com/shop/13696198",
+              "special": "可刷卡,可手机支付,免费wifi",
+              "star_level": 70,
+              "telphone": "0752-3378366"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "1081029632426058173",
+        "name": "柠花美容美发中心",
+        "addr": "广东省东莞市虎门镇连升中路11号虎门国际购物中心F3",
+        "phone": " ",
+        "classes": "生活服务:美容美发:美发",
+        "pinfo": "0",
+        "pointx": "113.682823",
+        "pointy": "22.813811",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 60,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 94,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美发",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省东莞市虎门镇连升中路11号虎门国际购物中心F3",
+              "avg_rating": "3.0",
+              "business_name": "柠花美容美发中心",
+              "business_status": "正常商户",
+              "city": "东莞市",
+              "lat": "22.8138111498",
+              "latitude": "22.8138111498",
+              "lng": "113.682823123",
+              "longitude": "113.682823123",
+              "name": "柠花美容美发中心",
+              "open_time": "周一至周日\n10:30-22:00",
+              "province": "广东省",
+              "regions": "",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美发",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 60,
+              "telphone": ""
+            }
+          ]
+        }
+      },
+      {
+        "uid": "12881772030577576489",
+        "name": "菲曼芝·养生美容",
+        "addr": "广东省深圳市宝安区中心路丽沙花都62号商铺",
+        "phone": " ",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "113.828349",
+        "pointy": "22.716547",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "2",
+              "real_comment_num": "2",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "2"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区中心路丽沙花都62号商铺",
+              "avg_rating": "3.5",
+              "brand_id": "1037502",
+              "business_name": "菲曼芝·养生美容",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.716547255",
+              "latitude": "22.716547255",
+              "lng": "113.828349332",
+              "longitude": "113.828349332",
+              "name": "菲曼芝·养生美容",
+              "open_time": "周一至周日\n10:00-23:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "2",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 70,
+              "telphone": ""
+            }
+          ]
+        }
+      },
+      {
+        "uid": "3422554121842654695",
+        "name": "紫怡美容院",
+        "addr": "广东省东莞市沙铺头西三巷3号",
+        "phone": "15999725231",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "113.802308",
+        "pointy": "22.804215",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省东莞市沙铺头西三巷3号",
+              "avg_rating": "3.5",
+              "branch_name": "",
+              "business_name": "紫怡美容院",
+              "business_status": "正常商户",
+              "city": "东莞市",
+              "lat": "22.804215132",
+              "latitude": "22.804215132",
+              "lng": "113.802308001",
+              "longitude": "113.802308001",
+              "name": "紫怡美容院",
+              "open_time": "周一至周日\n11:00-21:00",
+              "province": "广东省",
+              "regions": "",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "可刷卡,可手机支付,免费wifi,免费停车,有包厢,有沙发位",
+              "star_level": 70,
+              "telphone": "15999725231"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "4844552538639984404",
+        "name": "苗方清颜美容店(沙井店)",
+        "addr": "广东省深圳市宝安区新沙路397号",
+        "phone": "0755-82593665;400-062-6690",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "113.822700",
+        "pointy": "22.728530",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 0,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "0",
+              "real_comment_num": "0",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "0"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping_hezuo"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区新沙路397号",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "brand_id": "3204",
+              "business_name": "苗方清颜美容店(沙井店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.72853",
+              "latitude": "22.72853",
+              "lng": "113.8227",
+              "longitude": "113.8227",
+              "name": "苗方清颜美容店(沙井店)",
+              "open_time": "周一至周日 11:00-21:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "0",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping_hezuo",
+              "rich_source_url": "http://www.dianping.com/shop/23744589",
+              "special": "免费wifi,可刷卡,可手机支付",
+              "star_level": 70,
+              "telphone": "0755-82593665;400-062-6690"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "9971689964804669543",
+        "name": "美丽之城美甲美容中心",
+        "addr": "广东省深圳市龙华区兴万和购物广场(清湖店)对面",
+        "phone": " ",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.034390",
+        "pointy": "22.667130",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 80,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 94,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙华区兴万和购物广场(清湖店)对面",
+              "avg_rating": "4.0",
+              "business_name": "美丽之城美甲美容中心",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.66713",
+              "latitude": "22.66713",
+              "lng": "114.03439",
+              "longitude": "114.03439",
+              "name": "美丽之城美甲美容中心",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "龙华区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 80,
+              "telphone": ""
+            }
+          ]
+        }
+      },
+      {
+        "uid": "4191092984401668674",
+        "name": "鱼美人(长安分院)",
+        "addr": "广东省东莞市常青南路259号",
+        "phone": "0769-85371038",
+        "classes": "生活服务:美容美发:瘦身纤体",
+        "pinfo": "0",
+        "pointx": "113.801070",
+        "pointy": "22.808570",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 80,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:瘦身纤体",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省东莞市常青南路259号",
+              "area_value": 0.0,
+              "avg_rating": "4.0",
+              "brand_id": "1008866",
+              "business_name": "鱼美人(长安分院)",
+              "business_status": "正常商户",
+              "city": "东莞市",
+              "lat": "22.80857",
+              "latitude": "22.80857",
+              "lng": "113.80107",
+              "longitude": "113.80107",
+              "name": "鱼美人(长安分院)",
+              "open_time": "周一至周日\n11:00-21:00",
+              "province": "广东省",
+              "regions": "",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:瘦身纤体",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 80,
+              "telphone": "0769-85371038"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "2113121520321445575",
+        "name": "鱼美人(平湖分院)",
+        "addr": "广东省深圳市龙岗区平湖镇守珍街318号2楼",
+        "phone": "0755-28854090",
+        "classes": "生活服务:美容美发:瘦身纤体",
+        "pinfo": "0",
+        "pointx": "114.136241",
+        "pointy": "22.697810",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 90,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:瘦身纤体",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区平湖镇守珍街318号2楼",
+              "avg_rating": "4.5",
+              "brand_id": "1008866",
+              "business_name": "鱼美人(平湖分院)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.69781",
+              "latitude": "22.69781",
+              "lng": "114.136241",
+              "longitude": "114.136241",
+              "name": "鱼美人(平湖分院)",
+              "open_time": "周一至周日\n10:00-20:00",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:瘦身纤体",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "0755-28854090"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "1344745106904750640",
+        "name": "玛丽艳SPA美容养生馆(塘尾店)",
+        "addr": "广东省深圳市宝安区塘尾二十四区十巷10-1",
+        "phone": " ",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "113.812400",
+        "pointy": "22.706330",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区塘尾二十四区十巷10-1",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "塘尾店",
+              "business_name": "玛丽艳SPA美容养生馆(塘尾店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.70633",
+              "latitude": "22.70633",
+              "lng": "113.8124",
+              "longitude": "113.8124",
+              "name": "玛丽艳SPA美容养生馆(塘尾店)",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "免费停车",
+              "star_level": 70,
+              "telphone": ""
+            }
+          ]
+        }
+      },
+      {
+        "uid": "14228400388717122394",
+        "name": "米米丽美容中心",
+        "addr": "广东省深圳市龙岗区坳新路18号",
+        "phone": "13823710121",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.212500",
+        "pointy": "22.672540",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "1",
+              "real_comment_num": "1",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "1"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区坳新路18号",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "龙岗区坳背一店",
+              "business_name": "米米丽美容中心",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.67254",
+              "latitude": "22.67254",
+              "lng": "114.2125",
+              "longitude": "114.2125",
+              "name": "米米丽美容中心",
+              "open_time": "周一至周日\n08:30-23:30",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "1",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "免费停车,可刷卡",
+              "star_level": 70,
+              "telphone": "13823710121"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "8417858675550112192",
+        "name": "振宇专业美容SPA生活馆(百佳华沙井店)",
+        "addr": "广东省深圳市宝安区新沙路276号百佳华F3",
+        "phone": " ",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "113.825437",
+        "pointy": "22.728712",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 94,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区新沙路276号百佳华F3",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "business_name": "振宇专业美容SPA生活馆(百佳华沙井店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.728712",
+              "latitude": "22.728712",
+              "lng": "113.825437",
+              "longitude": "113.825437",
+              "name": "振宇专业美容SPA生活馆(百佳华沙井店)",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 70,
+              "telphone": ""
+            }
+          ]
+        }
+      },
+      {
+        "uid": "13044009199087161281",
+        "name": "皇家汉方减肥美容养生",
+        "addr": "广东省惠州市惠阳区金惠大道13号天虹F3层",
+        "phone": "0752-3835166",
+        "classes": "生活服务:美容美发:美容SPA",
+        "pinfo": "0",
+        "pointx": "114.451290",
+        "pointy": "22.786400",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 70,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "2",
+              "real_comment_num": "2",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "2"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省惠州市惠阳区金惠大道13号天虹F3层",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "",
+              "business_name": "皇家汉方减肥美容养生",
+              "business_status": "正常商户",
+              "city": "惠州市",
+              "lat": "22.7864",
+              "latitude": "22.7864",
+              "lng": "114.45129",
+              "longitude": "114.45129",
+              "name": "皇家汉方减肥美容养生",
+              "open_time": "周一至周日\n09:30-21:00",
+              "province": "广东省",
+              "regions": "惠阳区",
+              "review_count": "2",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "免费停车",
+              "star_level": 70,
+              "telphone": "0752-3835166"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "14553187184786399254",
+        "name": "黛颜念美国际皮肤管理连锁机构",
+        "addr": "广东省深圳市龙岗区龙翔大道7018号新鸿花园8号楼",
+        "phone": "13802204556",
+        "classes": "生活服务:美容美发:美发",
+        "pinfo": "0",
+        "pointx": "114.241280",
+        "pointy": "22.713030",
+        "geotype": 2,
+        "poitype": 0,
+        "src": 0,
+        "average_price": 0,
+        "comment_num": 0,
+        "comment_level": 80,
+        "special_rec": " ",
+        "pic_id": "0",
+        "PL": 99,
+        "isxp": 0,
+        "xpinfo": "",
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美发",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区龙翔大道7018号新鸿花园8号楼",
+              "avg_rating": "4.0",
+              "business_name": "黛颜念美国际皮肤管理连锁机构",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.71303",
+              "latitude": "22.71303",
+              "lng": "114.24128",
+              "longitude": "114.24128",
+              "name": "黛颜念美国际皮肤管理连锁机构",
+              "open_time": "周一至周日\n10:00-21:00",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美发",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 80,
+              "telphone": "13802204556"
+            }
+          ]
+        }
+      },
+      {
+        "uid": "15049858087745164836",
+        "name": "深圳市梵音瑜伽(南山旗舰店)",
+        "phone": "13825268454; 18607509944",
+        "addr": "广东省深圳市南山区南头街道常兴路83号国兴大厦19楼",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500806,
+        "rankep": 0,
+        "ranktp": 0.918806,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.920340,
+        "pointy": 22.528850,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 16910.60,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "905",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "832",
+        "QQ_CLICK": "0",
+        "RELA": "0.8320000172",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区南头街道常兴路83号国兴大厦19楼",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "brand_id": "1016643",
+              "business_name": "深圳市梵音瑜伽(南山旗舰店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.52885",
+              "latitude": "22.52885",
+              "lng": "113.92034",
+              "longitude": "113.92034",
+              "name": "深圳市梵音瑜伽(南山旗舰店)",
+              "open_time": "周一至周日\n07:00-21:30",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "13825268454; 18607509944"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "9141074852237760350",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "13614703672536517508",
+        "name": "弥塔瑜伽(民治店)",
+        "phone": " ",
+        "addr": "广东省深圳市龙华区横岭三区59",
+        "classes": "生活服务:美容美发:美容SPA",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500616,
+        "rankep": 0,
+        "ranktp": 0.815882,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.043530,
+        "pointy": 22.608410,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 3421.93,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "60.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "143411",
+        "SO": "440309",
+        "POI_PATH": [
+          {
+            "ccode": 3565,
+            "cname": "龙华区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "880",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "858",
+        "QQ_CLICK": "0",
+        "RELA": "0.8579999804",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "2",
+              "real_comment_num": "2",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "2"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙华区横岭三区59",
+              "area_value": 0.0,
+              "avg_rating": "3.0",
+              "business_name": "弥塔瑜伽(民治店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.60841",
+              "latitude": "22.60841",
+              "lng": "114.04353",
+              "longitude": "114.04353",
+              "name": "弥塔瑜伽(民治店)",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "龙华区",
+              "review_count": "2",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 60,
+              "telphone": ""
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "852755438383136348",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "6846186018241568714",
+        "name": "梵羽国际瑜伽(万科城店)",
+        "phone": "18025460556",
+        "addr": "广东省深圳市龙岗区布吉镇贝尔路万科城二期南门风情商业街C8120",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575502169,
+        "rankep": 0,
+        "ranktp": 0.872574,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.070110,
+        "pointy": 22.642770,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 3674.04,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "70.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440307",
+        "POI_PATH": [
+          {
+            "ccode": 1995,
+            "cname": "龙岗区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "880",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "808",
+        "QQ_CLICK": "0",
+        "RELA": "0.8080000281",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区布吉镇贝尔路万科城二期南门风情商业街C8120",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "brand_id": "1056235",
+              "business_name": "梵羽国际瑜伽(万科城店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.64277",
+              "latitude": "22.64277",
+              "lng": "114.07011",
+              "longitude": "114.07011",
+              "name": "梵羽国际瑜伽(万科城店)",
+              "open_time": "周一至周日\n09:00-22:00",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 70,
+              "telphone": "18025460556"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "10700562203807534893",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "9103625362473547801",
+        "name": "深圳市瑜伽协会",
+        "phone": "0755-23941235",
+        "addr": "广东省深圳市福田区沙嘴路2号好景豪园会所302室",
+        "classes": "机构团体:社会团体",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501510,
+        "rankep": 0,
+        "ranktp": 0.840422,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.035023,
+        "pointy": 22.518746,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 13281.18,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "0.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "121600",
+        "SO": "440304",
+        "POI_PATH": [
+          {
+            "ccode": 1992,
+            "cname": "福田区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "843",
+        "BL": " ",
+        "AL": " ",
+        "PL": 94,
+        "CROSS_RANK": "413",
+        "QQ_CLICK": "0",
+        "RELA": "0.4129999876",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "0",
+              "real_comment_num": "0",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "0"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "机构团体:社会团体",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市福田区沙嘴路2号好景豪园会所302室",
+              "area_value": 0.0,
+              "business_name": "深圳市瑜伽协会",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.518746",
+              "latitude": "22.518746",
+              "lng": "114.035023",
+              "longitude": "114.035023",
+              "name": "深圳市瑜伽协会",
+              "province": "广东省",
+              "regions": "福田区",
+              "review_count": "0",
+              "rich_category1": "rich.common",
+              "rich_category2": "机构团体:社会团体",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "telphone": "0755-23941235"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "5911305672511651168",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "7888314990078628104",
+        "name": "柏林瑜伽",
+        "phone": "0755-32925288;15889330064",
+        "addr": "广东省深圳市龙华区新区大道1002号海宁广场3楼",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501330,
+        "rankep": 0,
+        "ranktp": 0.918806,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.008580,
+        "pointy": 22.639530,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 2689.76,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440309",
+        "POI_PATH": [
+          {
+            "ccode": 3565,
+            "cname": "龙华区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "823",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "888",
+        "QQ_CLICK": "0",
+        "RELA": "0.8880000114",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙华区新区大道1002号海宁广场3楼",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "business_name": "柏林瑜伽",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.63953",
+              "latitude": "22.63953",
+              "lng": "114.00858",
+              "longitude": "114.00858",
+              "name": "柏林瑜伽",
+              "open_time": "周一至周日\n08:00-22:00",
+              "province": "广东省",
+              "regions": "龙华区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "0755-32925288;15889330064"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "8533712122372322848",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "9334460901406720310",
+        "name": "悦瑜伽专业会馆(南山店)",
+        "phone": " ",
+        "addr": "广东省深圳市南山区南商路深蓝公寓裙楼309室",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501249,
+        "rankep": 0,
+        "ranktp": 0.800000,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.928470,
+        "pointy": 22.512960,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 17696.87,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "823",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "808",
+        "QQ_CLICK": "0",
+        "RELA": "0.8080000281",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区南商路深蓝公寓裙楼309室",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "business_name": "悦瑜伽专业会馆(南山店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.51296",
+              "latitude": "22.51296",
+              "lng": "113.92847",
+              "longitude": "113.92847",
+              "name": "悦瑜伽专业会馆(南山店)",
+              "open_time": "周一至周日\n08:30-22:30",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": ""
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "6648549868859208989",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "15991463113189551264",
+        "name": "阿拉丁东方舞瑜伽会所",
+        "phone": "13714137683",
+        "addr": "广东省深圳市福田区景鹏大厦2栋306",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500751,
+        "rankep": 0,
+        "ranktp": 0.815882,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.045820,
+        "pointy": 22.556400,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 9160.84,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440304",
+        "POI_PATH": [
+          {
+            "ccode": 1992,
+            "cname": "福田区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "822",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "805",
+        "QQ_CLICK": "0",
+        "RELA": "0.8050000072",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市福田区景鹏大厦2栋306",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "business_name": "阿拉丁东方舞瑜伽会所",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.5564",
+              "latitude": "22.5564",
+              "lng": "114.04582",
+              "longitude": "114.04582",
+              "name": "阿拉丁东方舞瑜伽会所",
+              "open_time": "周一至周日\n09:00-21:30",
+              "province": "广东省",
+              "regions": "福田区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "13714137683"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "7209724699140614846",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "11757099536431030476",
+        "name": "平和飞悦培训学校(总部)",
+        "phone": "0755-27586335",
+        "addr": "广东省深圳市宝安区建安二路79号",
+        "classes": "教育学校:培训",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500636,
+        "rankep": 0,
+        "ranktp": 0.918806,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.886340,
+        "pointy": 22.580470,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 16540.41,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "70.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "241500",
+        "SO": "440306",
+        "POI_PATH": [
+          {
+            "ccode": 1994,
+            "cname": "宝安区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "805",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "850",
+        "QQ_CLICK": "0",
+        "RELA": "0.8500000238",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "教育学校:培训",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区建安二路79号",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "平和飞悦瑜伽舞蹈总部",
+              "business_name": "平和飞悦培训学校(总部)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.58047",
+              "latitude": "22.58047",
+              "lng": "113.88634",
+              "longitude": "113.88634",
+              "name": "平和飞悦培训学校(总部)",
+              "open_time": "周一至周日\n07:30-21:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "教育学校:培训",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "免费停车,可刷卡",
+              "star_level": 70,
+              "telphone": "0755-27586335"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "null",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "1059930349280415679",
+        "name": "辣妈蜜芽孕产健康美学馆",
+        "phone": "400-080-7580",
+        "addr": "广东省深圳市宝安区西乡大道宝和苑商业裙楼2楼",
+        "classes": "生活服务:美容美发:美容SPA",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500608,
+        "rankep": 0,
+        "ranktp": 0.796103,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.859040,
+        "pointy": 22.567563,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 19685.47,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "80.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "143411",
+        "SO": "440306",
+        "POI_PATH": [
+          {
+            "ccode": 1994,
+            "cname": "宝安区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "791",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "614",
+        "QQ_CLICK": "0",
+        "RELA": "0.6140000224",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "生活服务:美容美发:美容SPA",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区西乡大道宝和苑商业裙楼2楼",
+              "area_value": 0.0,
+              "avg_rating": "4.0",
+              "branch_name": "宝安店",
+              "business_name": "辣妈蜜芽孕产健康美学馆",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.567563",
+              "latitude": "22.567563",
+              "lng": "113.85904",
+              "longitude": "113.85904",
+              "name": "辣妈蜜芽孕产健康美学馆",
+              "open_time": "周一至周日\n10:00-22:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "生活服务:美容美发:美容SPA",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "可手机支付,免费wifi,有包厢,有宝宝椅,有沙发位,有儿童游乐区,有景观位,可刷卡",
+              "star_level": 80,
+              "telphone": "400-080-7580"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "null",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "6072217167703148461",
+        "name": "昕孕瑜伽(蛇口店)",
+        "phone": "13725273730",
+        "addr": "广东省深圳市南山区南海大道1055西南方向60米",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501026,
+        "rankep": 0,
+        "ranktp": 0.840422,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.916840,
+        "pointy": 22.492930,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 20194.24,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "787",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "770",
+        "QQ_CLICK": "0",
+        "RELA": "0.7699999809",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区南海大道1055西南方向60米",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "business_name": "昕孕瑜伽(蛇口店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.49293",
+              "latitude": "22.49293",
+              "lng": "113.91684",
+              "longitude": "113.91684",
+              "name": "昕孕瑜伽(蛇口店)",
+              "open_time": "周一至周六\n08:30-21:00",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "13725273730"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "10198479946617732178",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "3113955029788670453",
+        "name": "拉伽瑜伽(凯旋城店)",
+        "phone": "13632938936",
+        "addr": "广东省深圳市宝安区宝城中心N8区金泓凯旋城11栋人人乐一层",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500977,
+        "rankep": 0,
+        "ranktp": 0.872574,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.896365,
+        "pointy": 22.546925,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 17466.98,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "100.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440306",
+        "POI_PATH": [
+          {
+            "ccode": 1994,
+            "cname": "宝安区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "787",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "729",
+        "QQ_CLICK": "0",
+        "RELA": "0.7289999723",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区宝城中心N8区金泓凯旋城11栋人人乐一层",
+              "area_value": 0.0,
+              "avg_rating": "5.0",
+              "brand_id": "1066860",
+              "business_name": "拉伽瑜伽(凯旋城店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.546925",
+              "latitude": "22.546925",
+              "lng": "113.896365",
+              "longitude": "113.896365",
+              "name": "拉伽瑜伽(凯旋城店)",
+              "open_time": "周一至周日\n08:00-22:30",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 100,
+              "telphone": "13632938936"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "10168036422369485675",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "14080756796078324404",
+        "name": "金港健身会所",
+        "phone": "13699842210",
+        "addr": "广东省深圳市福田区水围村二街1001号",
+        "classes": "运动健身:健身中心",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500734,
+        "rankep": 0,
+        "ranktp": 0.840422,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.064520,
+        "pointy": 22.518950,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 13607.84,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "70.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181000",
+        "SO": "440304",
+        "POI_PATH": [
+          {
+            "ccode": 1992,
+            "cname": "福田区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "785",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "810",
+        "QQ_CLICK": "0",
+        "RELA": "0.8100000024",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:健身中心",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市福田区水围村二街1001号",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "branch_name": "水围店",
+              "business_name": "金港健身会所",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.51895",
+              "latitude": "22.51895",
+              "lng": "114.06452",
+              "longitude": "114.06452",
+              "name": "金港健身会所",
+              "open_time": "周一至周日\n08:00-23:00",
+              "province": "广东省",
+              "regions": "福田区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:健身中心",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 70,
+              "telphone": "13699842210"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "11265006273805451097",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "13842210652346709647",
+        "name": "JP+(华侨城店)",
+        "phone": "18529542227",
+        "addr": "广东省深圳市南山区侨城东路99号深南电路207号",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500723,
+        "rankep": 0,
+        "ranktp": 0.700000,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.995818,
+        "pointy": 22.539430,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 11683.65,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "100.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "784",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "717",
+        "QQ_CLICK": "0",
+        "RELA": "0.7170000076",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "0",
+              "real_comment_num": "0",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "0"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping_hezuo"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区侨城东路99号深南电路207号",
+              "avg_rating": "5.0",
+              "branch_name": "华侨城店",
+              "business_name": "JP+(华侨城店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.53943",
+              "latitude": "22.53943",
+              "lng": "113.995818",
+              "longitude": "113.995818",
+              "name": "JP+(华侨城店)",
+              "open_time": "周一至周日\n10:00-21:00",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "0",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping_hezuo",
+              "rich_source_url": "http://www.dianping.com/shop/94284570",
+              "special": "可手机支付,免费wifi",
+              "star_level": 100,
+              "telphone": "18529542227"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "9923591074141051114",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "1201770723863662379",
+        "name": "深圳优胜美地瑜伽",
+        "phone": " ",
+        "addr": "广东省深圳市南山区蛇口望海路1188号伍兹公寓4栋1A",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501528,
+        "rankep": 0,
+        "ranktp": 0.815882,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.915128,
+        "pointy": 22.480213,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 21444.12,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "782",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "665",
+        "QQ_CLICK": "0",
+        "RELA": "0.6650000215",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区蛇口望海路1188号伍兹公寓4栋1A",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "business_name": "深圳优胜美地瑜伽",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.480213",
+              "latitude": "22.480213",
+              "lng": "113.915128",
+              "longitude": "113.915128",
+              "name": "深圳优胜美地瑜伽",
+              "open_time": "周一至周日\n08:30-21:00",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": ""
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "15546853467035264258",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "14837263658038818122",
+        "name": "心爱加一孕育学院(华侨城中心店)",
+        "phone": "0755-83664345;13420932858",
+        "addr": "广东省深圳市南山区侨城西街美加广场D座204号",
+        "classes": "教育学校:培训",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500637,
+        "rankep": 0,
+        "ranktp": 0.796103,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.977640,
+        "pointy": 22.538540,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 12535.01,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "0.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "241500",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "782",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "422",
+        "QQ_CLICK": "0",
+        "RELA": "0.4219999909",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "2",
+              "real_comment_num": "2",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "2"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "教育学校:培训",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区侨城西街美加广场D座204号",
+              "area_value": 0.0,
+              "business_name": "心爱加一孕育学院(华侨城中心店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.53854",
+              "latitude": "22.53854",
+              "lng": "113.97764",
+              "longitude": "113.97764",
+              "name": "心爱加一孕育学院(华侨城中心店)",
+              "open_time": "周一至周日\n09:00-18:00",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "2",
+              "rich_category1": "rich.common",
+              "rich_category2": "教育学校:培训",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "telphone": "0755-83664345;13420932858"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "7845459602789213714",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "16889181555155727277",
+        "name": "印瑜伽(南山店)",
+        "phone": "0755-86644480",
+        "addr": "广东省深圳市南山区深南大道9030号瑞思中心A座2109-2115室",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501810,
+        "rankep": 0,
+        "ranktp": 0.918806,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.973160,
+        "pointy": 22.538214,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 12788.46,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "100.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "778",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "397",
+        "QQ_CLICK": "0",
+        "RELA": "0.3970000148",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区深南大道9030号瑞思中心A座2109-2115室",
+              "area_value": 0.0,
+              "avg_rating": "5.0",
+              "branch_name": "南山分店",
+              "brand_id": "1097790",
+              "business_name": "印瑜伽(南山店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.538214",
+              "latitude": "22.538214",
+              "lng": "113.97316",
+              "longitude": "113.97316",
+              "name": "印瑜伽(南山店)",
+              "open_time": "周一至周日\n09:00-21:00",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "special": "免费wifi",
+              "star_level": 100,
+              "telphone": "0755-86644480"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "10506879018309586156",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "9085125625131585496",
+        "name": "菩提树孕产瑜伽中心",
+        "phone": "18138212346",
+        "addr": "广东省深圳市龙岗区坂田雅园路万科第五园一期商铺原万科书院(面点王对面)",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501481,
+        "rankep": 0,
+        "ranktp": 0.872574,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.069480,
+        "pointy": 22.616490,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 4303.88,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "70.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440307",
+        "POI_PATH": [
+          {
+            "ccode": 1995,
+            "cname": "龙岗区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "774",
+        "BL": " ",
+        "AL": " ",
+        "PL": 94,
+        "CROSS_RANK": "707",
+        "QQ_CLICK": "0",
+        "RELA": "0.7070000172",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区坂田雅园路万科第五园一期商铺原万科书院(面点王对面)",
+              "area_value": 0.0,
+              "avg_rating": "3.5",
+              "business_name": "菩提树孕产瑜伽中心",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.61649",
+              "latitude": "22.61649",
+              "lng": "114.06948",
+              "longitude": "114.06948",
+              "name": "菩提树孕产瑜伽中心",
+              "open_time": "周一至周日\n09:00-21:30",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 70,
+              "telphone": "18138212346"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "1812818484572125259",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "5300429247747377273",
+        "name": "沙第瑜伽",
+        "phone": " ",
+        "addr": "广东省深圳市南山区红花路南山豪庭3栋3楼",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575501120,
+        "rankep": 0,
+        "ranktp": 0.917452,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.917734,
+        "pointy": 22.539911,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 16245.46,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "0.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440305",
+        "POI_PATH": [
+          {
+            "ccode": 1993,
+            "cname": "南山区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "770",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "410",
+        "QQ_CLICK": "0",
+        "RELA": "0.4099999964",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市南山区红花路南山豪庭3栋3楼",
+              "business_name": "沙第瑜伽",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.539911",
+              "latitude": "22.539911",
+              "lng": "113.917734",
+              "longitude": "113.917734",
+              "name": "沙第瑜伽",
+              "open_time": "周一至周日\n08:00-22:00",
+              "province": "广东省",
+              "regions": "南山区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "telphone": ""
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "17233378776398978976",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "16337431655096045958",
+        "name": "梵羽国际瑜伽(德兴城店)",
+        "phone": "18025330533",
+        "addr": "广东省深圳市龙岗区新乐路80号德行城15栋",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500668,
+        "rankep": 0,
+        "ranktp": 0.872574,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 114.116960,
+        "pointy": 22.607330,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 9116.77,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "90.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440307",
+        "POI_PATH": [
+          {
+            "ccode": 1995,
+            "cname": "龙岗区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "769",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "761",
+        "QQ_CLICK": "0",
+        "RELA": "0.7609999776",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "3",
+              "real_comment_num": "3",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "3"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市龙岗区新乐路80号德行城15栋",
+              "area_value": 0.0,
+              "avg_rating": "4.5",
+              "brand_id": "1056235",
+              "business_name": "梵羽国际瑜伽(德兴城店)",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.60733",
+              "latitude": "22.60733",
+              "lng": "114.11696",
+              "longitude": "114.11696",
+              "name": "梵羽国际瑜伽(德兴城店)",
+              "open_time": "周一至周日\n09:30-22:00",
+              "province": "广东省",
+              "regions": "龙岗区",
+              "review_count": "3",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 90,
+              "telphone": "18025330533"
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "6802789779215439273",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      },
+      {
+        "uid": "16051513888606601291",
+        "name": "芊慧瑜伽培训学院",
+        "phone": " ",
+        "addr": "广东省深圳市宝安区西乡大道颐和花园D座2楼",
+        "classes": "运动健身:瑜伽",
+        "classname": "null",
+        "isbrand": 0,
+        "cs": 0,
+        "xgc_st": 0,
+        "xgc_to": 0,
+        "xgc_ms": 0,
+        "tag": [],
+        "timestamp": 1575500726,
+        "rankep": 0,
+        "ranktp": 0.872574,
+        "rankqp": 0,
+        "zip": " ",
+        "pinfo": "",
+        "pointx": 113.871380,
+        "pointy": 22.580030,
+        "geotype": 0,
+        "poitype": 0,
+        "src": 0,
+        "detail": 1,
+        "dis": 17984.40,
+        "average_price": "0",
+        "comment_num": "0",
+        "comment_level": "60.000000",
+        "special_rec": " ",
+        "pic_id": " ",
+        "CO": "181300",
+        "SO": "440306",
+        "POI_PATH": [
+          {
+            "ccode": 1994,
+            "cname": "宝安区"
+          },
+          {
+            "ccode": 1990,
+            "cname": "深圳市"
+          },
+          {
+            "ccode": 1965,
+            "cname": "广东省"
+          }
+        ],
+        "SH": "768",
+        "BL": " ",
+        "AL": " ",
+        "PL": 99,
+        "CROSS_RANK": "715",
+        "QQ_CLICK": "0",
+        "RELA": "0.7149999738",
+        "base_url": "",
+        "isxp": 0,
+        "richInfo": {
+          "comment": [
+            {
+              "comment_num": "1",
+              "real_comment_num": "1",
+              "rich_category1": "rich.common",
+              "rich_source": "dianping_hezuo",
+              "source_name": "大众点评网",
+              "total_comment_info_num": "1"
+            }
+          ],
+          "common": {
+            "rich_category1": "rich.common",
+            "rich_category2": "运动健身:瑜伽",
+            "rich_source": "dianping"
+          },
+          "rich": [
+            {
+              "address": "广东省深圳市宝安区西乡大道颐和花园D座2楼",
+              "area_value": 0.0,
+              "avg_rating": "3.0",
+              "business_name": "芊慧瑜伽培训学院",
+              "business_status": "正常商户",
+              "city": "深圳市",
+              "lat": "22.58003",
+              "latitude": "22.58003",
+              "lng": "113.87138",
+              "longitude": "113.87138",
+              "name": "芊慧瑜伽培训学院",
+              "open_time": "周一至周日\n09:00-22:00",
+              "province": "广东省",
+              "regions": "宝安区",
+              "review_count": "1",
+              "rich_category1": "rich.common",
+              "rich_category2": "运动健身:瑜伽",
+              "rich_source": "dianping",
+              "rich_source_url": "",
+              "star_level": 60,
+              "telphone": ""
+            }
+          ]
+        },
+        "wisdom_info": null,
+        "floor_name": " ",
+        "is_inside": 0,
+        "inside_class": " ",
+        "build_id": "0",
+        "shinei_id": "0",
+        "logo_url": "",
+        "Logo_Pho": "",
+        "has_groupbuy_info": "",
+        "xpinfo": null,
+        "showreason": null,
+        "master_id": "6425735726357158745",
+        "category_num": "null",
+        "master_slaver_type": "null"
+      }
+    ],
+
+}
